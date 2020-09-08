@@ -15,7 +15,7 @@ I accidently messed up BIOS, and it didn't boot anymore. After unsuccessfully tr
 After I recovered Windows 10 on my Dell G3 laptop, I installed Ubuntu 20.04 as dual boot in the following steps:
 * Download Ubuntu 20.04 .iso file from its official website
 * Download SD card formatter from sdcard.org to format USB stick
-* Download Rufus to create bootable Ubuntu stck, where partition scheme is MBR.
+* Download Rufus to create bootable Ubuntu stick, where partition scheme is MBR.
 * On windows, open disk management, shrink C drive with certain size, e.g. 100GB for Ubuntu.
 * On windows, open system, check BIOS mode, mine is uefi.
 * Reboot computer, keep tapping F12 to go to BIOS menu, highlight 'boot from USB with uefi'. Note: 1) don't use 'boot from USB with legacy', 2) may need to go to BIOS Setup to change setting. 
