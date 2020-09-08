@@ -19,6 +19,6 @@ After I recovered Windows 10 on my Dell G3 laptop, I installed Ubuntu 20.04 as d
 * On windows, open disk management, shrink C drive with certain size, e.g. 100GB for Ubuntu.
 * On windows, open system, check BIOS mode, mine is uefi.
 * Reboot computer, keep tapping F12 to go to BIOS menu, highlight 'boot from USB with uefi' and hit enter, so the computer will boot from USB. Note: 1) don't use 'boot from USB with legacy', 2) may need to go to BIOS Setup to change setting. 
-* Then you will see the Ubuntu grub menu, and start installation.
+* Then you will see the Ubuntu grub menu, and start installation. Optional: during installation, check 'install third party software' to install the softwares depend on.
 
 
